@@ -3,8 +3,8 @@
 
 provider "aws" {
     region = "us-east-1"
-    access_key="AKIA2AUI2DIT3SJ2IQVG"
-    secret_key="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"
+    access_key="AXXXXXXXXXXXXXXXXXXXX"
+    secret_key="7XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }
 
 #creating 3 EC2 instances (default vpc, subnet will assign here (Can create our own as in Question 1Answer))
